@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-# 👋 Hi there, I'm Gideon Kwarteng!<br><br>I'm a passionate and curious **frontend developer** currently learning full-stack web development through daily practice and projects. I believe in building meaningful, real-world apps — one line of code at a time.<br><br>---<br><br>## 🚀 What I'm Working On<br><br>- 💻 Building full-stack apps using **React**, **Tailwind CSS**, and **Context API**<br>- 🛒 Just completed [ShopMart](https://shop-mart-main.vercel.app), a functional React e-commerce app<br>- 🔄 On **Day 57** of my #100DaysOfCode journey and still going strong!<br>- 📚 Actively learning **JavaScript**, **APIs**, **Git**, and **deployment**<br><br>---<br><br>## 
+# 👋 Hi there, I'm Gideon Kwarteng!<br><br>I'm a passionate and curious **frontend developer** currently learning full-stack web development through daily practice and projects. I believe in building meaningful, real-world apps — one line of code at a time.<br><br>---<br><br>## 🚀 What I'm Working On<br><br>- 💻 Building full-stack apps using **React**, **Tailwind CSS**, and **Context API**<br>- 🛒 Just completed [ShopMart](https://shop-mart-main.vercel.app), a functional React e-commerce app<br>- 🔄 On **Day 57** of my #100DaysOfCode journey and still going strong!<br>- 📚 Actively learning **JavaScript**, **APIs**, **Git**, and **deployment**<br>
 
 
 ## 🌐 Socials:
