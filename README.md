@@ -17,7 +17,6 @@ I'm a software developer, specializing in building websites.
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  - 📱 &nbsp;Css Framework:&nbsp;
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
