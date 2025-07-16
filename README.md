@@ -1,93 +1,50 @@
+<h2> Welcome 👋 , I'm Gideon Kwarteng.</h2>
 
-<h1 align="center">Hi, I'm Gideon Kwarteng 🚀</h1>
+I'm a software developer, specializing in building websites.
 
-<p align="center">
-Frontend Developer • React Enthusiast • Lifelong Learner
-</p>
 
----
+## About me
 
-## 👨🏽‍💻 About Me
+✨ FullStack Web Developer (MERN)
 
-I'm a **frontend developer** currently transitioning into **full-stack development**, with a hunger for building apps that solve real problems and create value.
+✨ Enjoys building apps in frameworks like React.Also into building APIs using REST.
 
-- 💡 I learn by doing — consistently shipping projects and features.
-- 🌍 Passionate about working with **startups** that move fast and think big.
-- 🛠️ Obsessed with clean UI, performant code, and meaningful user experiences.
+<hr>
 
----
+<h3> 🛠 &nbsp;Tech Stack</h3>
+  
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  - 📱 &nbsp;Css Framework:&nbsp;
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Bracket.io](https://img.shields.io/badge/-Bracket?style=flat&logo=vim&logoColor=007ACC)
+- 🖥 &nbsp;Design:&nbsp;
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+  ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=framer)
+ - 🖥 &nbsp;Operating System:&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows)
 
-## 🚀 Current Focus
+<br/>
 
-- 🔨 Building **production-grade full-stack apps** with **React**, **Tailwind CSS**, and **Context API**
-- 🛒 Just launched: [**ShopMart**](https://shop-mart-main.vercel.app) – a fully functional e-commerce platform built with React
-- 🧠 Sharpening my skills in **JavaScript**, **API Integration**, **Git**, and **Deployment**
-- 📈 Day 57 of my [#100DaysOfCode](https://www.instagram.com/i.am_kwarteng/) challenge — pushing my limits daily
 
----
+<hr>
 
-## 🧰 Tech Stack
+<h3>Contact Me</h3>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-**Backend & Tools:**  
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Firebase](https://img.shields.io/badge/-Firebase-ffcd34?style=flat-square&logo=firebase)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 💼 Projects That Matter
-
-### 🔹 [ShopMart](https://shop-mart-main.vercel.app)  
-> 🛍️ React E-commerce app with a clean, responsive UI  
-> 🧠 Features include product listings, cart management, and routing  
-> 🔧 Built using React, Context API, Tailwind CSS
-
-### 🔹 EmotionVerse *(Coming soon)*  
-> 📖 A bible verse app that matches scriptures to your emotions  
-> 🧘🏽 Helps users find peace, motivation, and spiritual clarity  
-> 🔧 Built with React, Firebase Auth & Firestore
-
----
-
-## 🧠 What I Bring to the Table
-
-✅ Strong understanding of **modern frontend workflows**  
-✅ Startup-ready mindset: speed, iteration, and ownership  
-✅ Open to mentorship, feedback, and rapid learning  
-✅ Effective communication + collaborative team player  
-✅ Focused on **value**, not just code
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [kwarteon08@gmail.com](mailto:kwarteon08@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/gideonkwarteng](https://linkedin.com/in/gideonkwarteng)  
-💬 **Discord:** [quist_me](https://discord.com/users/quist_me)  
-📸 **Instagram:** [@i.am_kwarteng](https://www.instagram.com/i.am_kwarteng/)
-
----
-
-## ⚡ Fun Fact  
-I debug faster than I decide what to eat. Still waiting for a `stack overflow` on jollof rice 🍚🔥
-
----
-
-📌 *Looking for internship or junior frontend/full-stack roles where I can contribute, grow, and build awesome things together.* Let’s connect!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gideonkwarteng)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kwarteon08@gmail.com)
+[<img src="https://img.shields.io/badge/WhatsApp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](http://wa.me/+233256674138)
 
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
