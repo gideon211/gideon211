@@ -1,13 +1,25 @@
-<h2> Welcome 👋 , I'm Gideon Kwarteng.</h2>
+██████╗ ██╗██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
+██╔══██╗██║██╔══██╗██╔════╝██╔═══██╗██╔══██╗████╗  ██║
+██████╔╝██║██████╔╝█████╗  ██║   ██║██████╔╝██╔██╗ ██║
+██╔═══╝ ██║██╔═══╝ ██╔══╝  ██║   ██║██╔═══╝ ██║╚██╗██║
+██║     ██║██║     ███████╗╚██████╔╝██║     ██║ ╚████║
+╚═╝     ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═══╝
+
+
+
+ 
+
+
+<h2> Welcome, I'm Gideon Kwarteng.</h2>
 
 I'm a software developer, specializing in building websites.
 
 
 ## About me
 
-✨ FullStack Web Developer (MERN)
+FullStack Web Developer (MERN)
 
-✨ Enjoys building apps in frameworks like React.Also into building APIs using REST.
+Enjoys building apps in frameworks like React.Also into building APIs using REST.
 
 <hr>
 
@@ -42,7 +54,7 @@ I'm a software developer, specializing in building websites.
 <h3>Contact Me</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gideonkwarteng)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kwarteon08@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gideon.kwarten5@gmail.com)
 [<img src="https://img.shields.io/badge/WhatsApp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](http://wa.me/+233256674138)
 
 
