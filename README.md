@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Gideon Kwarteng</h1>
   <h3>AI-Native Full-Stack Engineer | Building High-Velocity SaaS & Operational Platforms</h3>
-  <p><b>Based in Ghana | Open to Relocation (Netherlands HSM Visa Eligible)</b></p>
+  <p><b>Based in Ghana | Open to Relocation </b></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonkwarteng)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gideon.kwarten5@gmail.com)
