@@ -71,7 +71,7 @@ I am a Full-Stack Engineer with **3+ years of experience** architecting operatio
 - **Phone:** +233 256674138
 - **Portfolio:** https://gideonkwarteng.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/gideonkwarteng
-- **GitHub:** https://github.com/gideon211
+
 
 ---
 
