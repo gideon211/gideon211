@@ -178,7 +178,6 @@
     <a href="https://www.linkedin.com/in/gideonkwarteng">LinkedIn</a> ·
     <a href="https://gideonkwarteng.vercel.app/">Portfolio</a>
   </p>
-  <p>Open to relocation and visa sponsorship.</p>
 </div>
 
 <br/>
