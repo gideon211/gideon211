@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideon211&label=Profile%20views&color=0e75b6&style=flat" alt="gideon-kwarteng" /> </p>
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="220" align="right" />
 
 ###
 
@@ -95,5 +95,7 @@
     alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/gideon211/gideon211/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 
